@@ -1,6 +1,6 @@
 /*Package extension is used to scaffold the extension service
  */
-package extension
+package ext
 
 import (
 	"fmt"
